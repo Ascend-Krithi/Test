@@ -1,0 +1,12 @@
+{
+  "environment": "staging",
+  "api_base_url": "https://api.staging.example.com",
+  "test_credentials": {
+    "username": "test_user",
+    "password": "secure_password"
+  },
+  "capabilities": {
+    "device": "iPhone 15",
+    "os_version": "17.0"
+  }
+}

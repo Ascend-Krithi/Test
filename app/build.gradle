@@ -1,0 +1,3 @@
+androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+androidTestImplementation 'io.cucumber:cucumber-android:4.8.0'
+androidTestImplementation 'io.cucumber:cucumber-picocontainer:4.8.0'
